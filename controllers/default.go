@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	ud_func "catapi/controllers/requiredfunction" //user define function
-	ud_struct "catapi/controllers/structure"
+	ud_func "catapi/controllers/requiredfunction" //ud_func = user define function
+	ud_struct "catapi/controllers/structure" //ud_struct = user define structure
 	"encoding/json"
 	"fmt"
 	"time"
